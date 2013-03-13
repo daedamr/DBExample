@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DBExample</string>
+    <string name="menu_delete">DELETE</string>
+    <string name="title">PRESENTATIONS</string>
+    <string name="add_presentation">ADD PRESENTATION</string>
+    <string name="add_title">Presentation Title</string>
+    <string name="add_author">Presenter</string>
+</resources>
